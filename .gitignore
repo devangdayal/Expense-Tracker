@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+/.pnp/
+.pnp.js
+
+
+# Build files
+build/
+dist/
+*.log
+
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+
+# macOS
+.DS_Store
