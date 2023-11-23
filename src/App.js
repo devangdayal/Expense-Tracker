@@ -18,7 +18,7 @@ function App() {
         <IncomeExpense />
         <TransactionList />
         <AddTransaction />
-      </div>
+      </div> 
       
     </>
  
